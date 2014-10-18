@@ -1,0 +1,5 @@
+C:\Users\sahmed\Documents\Visual Studio 2010\Projects\Prediction\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sahmed\Documents\Visual Studio 2010\Projects\Prediction\bin\Debug\Prediction.dll
+C:\Users\sahmed\Documents\Visual Studio 2010\Projects\Prediction\bin\Debug\Prediction.pdb
+C:\Users\sahmed\Documents\Visual Studio 2010\Projects\Prediction\obj\Debug\Prediction.dll
+C:\Users\sahmed\Documents\Visual Studio 2010\Projects\Prediction\obj\Debug\Prediction.pdb

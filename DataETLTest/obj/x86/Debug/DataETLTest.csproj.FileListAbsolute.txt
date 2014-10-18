@@ -1,0 +1,8 @@
+C:\Users\sahmed\Documents\Visual Studio 2010\Projects\DataETLTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sahmed\Documents\Visual Studio 2010\Projects\DataETLTest\bin\Debug\DataETLTest.exe
+C:\Users\sahmed\Documents\Visual Studio 2010\Projects\DataETLTest\bin\Debug\DataETLTest.pdb
+C:\Users\sahmed\Documents\Visual Studio 2010\Projects\DataETLTest\bin\Debug\DataETL.pdb
+C:\Users\sahmed\Documents\Visual Studio 2010\Projects\DataETLTest\obj\x86\Debug\DataETLTest.exe
+C:\Users\sahmed\Documents\Visual Studio 2010\Projects\DataETLTest\obj\x86\Debug\DataETLTest.pdb
+C:\Users\sahmed\Documents\Visual Studio 2010\Projects\DataETLTest\bin\Debug\DataETL.dll
+C:\Users\sahmed\Documents\Visual Studio 2010\Projects\DataETLTest\bin\Debug\HtmlAgilityPack.dll

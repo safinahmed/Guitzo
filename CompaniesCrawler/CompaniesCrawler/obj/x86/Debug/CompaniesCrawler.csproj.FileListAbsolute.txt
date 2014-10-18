@@ -1,0 +1,8 @@
+c:\users\sahmed\documents\visual studio 2010\Projects\CompaniesCrawler\CompaniesCrawler\bin\Debug\CompaniesCrawler.exe
+c:\users\sahmed\documents\visual studio 2010\Projects\CompaniesCrawler\CompaniesCrawler\bin\Debug\CompaniesCrawler.pdb
+c:\users\sahmed\documents\visual studio 2010\Projects\CompaniesCrawler\CompaniesCrawler\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\sahmed\documents\visual studio 2010\Projects\CompaniesCrawler\CompaniesCrawler\obj\x86\Debug\CompaniesCrawler.exe
+c:\users\sahmed\documents\visual studio 2010\Projects\CompaniesCrawler\CompaniesCrawler\obj\x86\Debug\CompaniesCrawler.pdb
+c:\users\sahmed\documents\visual studio 2010\Projects\CompaniesCrawler\CompaniesCrawler\bin\Debug\HtmlAgilityPack.dll
+D:\Share\Guitzo\CompaniesCrawler\CompaniesCrawler\obj\x86\Debug\CompaniesCrawler.exe
+D:\Share\Guitzo\CompaniesCrawler\CompaniesCrawler\obj\x86\Debug\CompaniesCrawler.pdb

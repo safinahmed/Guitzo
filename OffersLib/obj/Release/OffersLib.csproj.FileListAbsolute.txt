@@ -1,0 +1,16 @@
+C:\Users\sahmed\Documents\Visual Studio 2010\Projects\OffersLib\bin\Release\OffersLib.dll
+C:\Users\sahmed\Documents\Visual Studio 2010\Projects\OffersLib\bin\Release\OffersLib.pdb
+C:\Users\sahmed\Documents\Visual Studio 2010\Projects\OffersLib\bin\Release\HtmlAgilityPack.dll
+C:\Users\sahmed\Documents\Visual Studio 2010\Projects\OffersLib\obj\Release\ResolveAssemblyReference.cache
+C:\Users\sahmed\Documents\Visual Studio 2010\Projects\OffersLib\obj\Release\OffersLib.dll
+C:\Users\sahmed\Documents\Visual Studio 2010\Projects\OffersLib\obj\Release\OffersLib.pdb
+C:\Users\sahmed\Documents\Visual Studio 2010\Projects\OffersLib\bin\Release\DataETL.dll
+C:\Users\sahmed\Documents\Visual Studio 2010\Projects\OffersLib\bin\Release\Prediction.dll
+C:\Users\sahmed\Documents\Visual Studio 2010\Projects\OffersLib\bin\Release\OutSystems.HubEdition.RuntimePlatform.dll
+C:\Users\sahmed\Documents\Visual Studio 2010\Projects\OffersLib\bin\Release\OutSystems.RuntimeCommon.dll
+C:\Users\sahmed\Documents\Visual Studio 2010\Projects\OffersLib\bin\Release\OutSystems.HubEdition.SMS.dll
+C:\Users\sahmed\Documents\Visual Studio 2010\Projects\OffersLib\bin\Release\GotDotNet.ApplicationBlocks.Data.dll
+C:\Users\sahmed\Documents\Visual Studio 2010\Projects\OffersLib\bin\Release\GemBox.Spreadsheet.dll
+C:\Users\sahmed\Documents\Visual Studio 2010\Projects\OffersLib\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\sahmed\Documents\Visual Studio 2010\Projects\OffersLib\bin\Release\DataETL.pdb
+C:\Users\sahmed\Documents\Visual Studio 2010\Projects\OffersLib\bin\Release\Prediction.pdb

@@ -1,0 +1,10 @@
+C:\Users\sahmed\Documents\Visual Studio 2010\Projects\DataETL\obj\x86\Debug\DataETL.csproj.ResolveComReference.cache
+C:\Users\sahmed\Documents\Visual Studio 2010\Projects\DataETL\bin\Debug\DataETL.pdb
+C:\Users\sahmed\Documents\Visual Studio 2010\Projects\DataETL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sahmed\Documents\Visual Studio 2010\Projects\DataETL\obj\x86\Debug\DataETL.pdb
+C:\Users\sahmed\Documents\Visual Studio 2010\Projects\DataETL\bin\Debug\Net.SourceForge.Koogra.dll
+C:\Users\sahmed\Documents\Visual Studio 2010\Projects\DataETL\bin\Debug\Ionic.Utils.Zip.dll
+C:\Users\sahmed\Documents\Visual Studio 2010\Projects\DataETL\bin\Debug\Net.SourceForge.Koogra.xml
+C:\Users\sahmed\Documents\Visual Studio 2010\Projects\DataETL\bin\Debug\DataETL.dll
+C:\Users\sahmed\Documents\Visual Studio 2010\Projects\DataETL\obj\x86\Debug\DataETL.dll
+C:\Users\sahmed\Documents\Visual Studio 2010\Projects\DataETL\bin\Debug\HtmlAgilityPack.dll

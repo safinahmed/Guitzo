@@ -1,0 +1,6 @@
+C:\Users\sahmed\Documents\Visual Studio 2010\Projects\DataETL\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\sahmed\Documents\Visual Studio 2010\Projects\DataETL\obj\x86\Release\DataETL.csproj.ResolveComReference.cache
+C:\Users\sahmed\Documents\Visual Studio 2010\Projects\DataETL\bin\Release\DataETL.exe
+C:\Users\sahmed\Documents\Visual Studio 2010\Projects\DataETL\bin\Release\DataETL.pdb
+C:\Users\sahmed\Documents\Visual Studio 2010\Projects\DataETL\obj\x86\Release\DataETL.exe
+C:\Users\sahmed\Documents\Visual Studio 2010\Projects\DataETL\obj\x86\Release\DataETL.pdb
